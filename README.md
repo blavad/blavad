@@ -33,7 +33,7 @@ I'm an entrepreneur, a fullstack developer, a teacher and an innovation enthusia
 
 ### Contributions
 
-![blavad's GitHub stats](https://github-readme-stats.vercel.app/api?username=blavad&count_private=true&theme=ayu-mirage&hide_border=true&show_icons=true)
+![blavad's GitHub stats](https://github-readme-stats.vercel.app/api?rank_icon=github&username=blavad&count_private=true&theme=ayu-mirage&hide_border=true&show_icons=true)
 
 <!--<a href="http://www.github.com/blavad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=blavad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>-->
 
