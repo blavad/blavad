@@ -1,7 +1,11 @@
 Hi, I am David 👋
 ==========================
 
-I'm an entrepreneur, a fullstack developer, a teacher and an innovation enthusiast. I contribute to projects in artificial intelligence [SDM'Studio](https://sdmstudio.github.io/) and games [Unboared](https://unboared.com/).
+I'm an entrepreneur, innovator and technology hobbyist driven by creativity and knowledge. 
+
+### Main projects
+- [Unboared](https://www.unboared.com), `game`
+- [SDM'Studio](https://sdmstudio.github.io/), `ai`
 
 ### Skills
 
