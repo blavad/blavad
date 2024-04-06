@@ -3,11 +3,12 @@ Hi, I am David 👋
 
 I'm an entrepreneur, innovator and technology hobbyist driven by creativity and knowledge. 
 
-### Main projects
+### Main contributions
 <a href="https://www.unboared.com" target="_blank" rel="noreferrer"><img src="https://www.david-albert.fr/img/img-unboared-v.e27a5204.jpg" width="90" height="90" alt="Unboared" /></a>
 <a href="https://mediacon" target="_blank" rel="noreferrer"><img src="./mediacon.png" width="90" height="90" alt="SDM Studio" /></a>
 <a href="https://sdmstudio.github.io/" target="_blank" rel="noreferrer"><img src="https://www.david-albert.fr/img/img-sdms-h.6082d842.png" width="88" height="88" alt="SDM Studio" /></a>
 
+<!--
 ### Skills
 
 <p align="left">
@@ -29,12 +30,14 @@ I'm an entrepreneur, innovator and technology hobbyist driven by creativity and 
 
   
 </p>
-
+-->
                     
-<!-- ### Socials
+### Socials
                   
-<p align="left"> <a href="https://www.github.com/blavad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/david-albert-a767a4160" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p> -->
+<p align="left"> 
+<a href="https://www.david-albert.fr" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4906/4906292.png" width="32" height="32" /></a> 
+<a href="https://www.github.com/blavad" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3291/3291667.png" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/david-albert-a767a4160" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Contributions
 
