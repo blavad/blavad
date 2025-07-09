@@ -4,9 +4,9 @@ Hi, I am David 👋
 I'm an entrepreneur, innovator and technology hobbyist driven by creativity and knowledge. 
 
 ### Main contributions
-<a href="https://www.unboared.com" target="_blank" rel="noreferrer"><img src="https://www.david-albert.fr/img/img-unboared-v.e27a5204.jpg" width="90" height="90" alt="Unboared" /></a>
+<a href="https://www.unboared.com" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xXRgbMuQrPCIBs2U6zEwJn-XTj1MBcXdug&s" width="90" height="90" alt="Unboared" /></a>
+<a href="https://sdmstudio.github.io/" target="_blank" rel="noreferrer"><img src="https://www.david-albert.fr/images/projects/img-sdms.png" width="88" height="88" alt="SDM Studio" /></a>
 <a href="https://www.instagram.com/mediacon.fr/" target="_blank" rel="noreferrer"><img src="./mediacon.png" width="90" height="90" alt="mediacon" /></a>
-<a href="https://sdmstudio.github.io/" target="_blank" rel="noreferrer"><img src="https://www.david-albert.fr/img/img-sdms-h.6082d842.png" width="88" height="88" alt="SDM Studio" /></a>
 
 <!--
 ### Skills
